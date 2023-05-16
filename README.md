@@ -9,6 +9,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I workout everyday**
 
+## About me
+I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-sinha-39b9b2209/) 
