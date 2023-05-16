@@ -11,6 +11,20 @@
 ## About me
 I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
 
+**1. Worked as Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remotely) 📈
+
+      May, 2022 - Aug, 2022
+
+      Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
+
+**2. Worked as Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
+
+      Feb, 2023 - Mar, 2023  
+      
+      Tech Stack - React Js, Next Js, Chakra UI
+
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-sinha-39b9b2209/) 
 
