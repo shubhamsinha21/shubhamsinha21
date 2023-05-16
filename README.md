@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on **Open Source Projects & Startup Project**
 - 🤔 I’m looking for help with **Learning BlockChain Development**
 - 💬 Ask me about **Technology and Personal Development**
-- 📫 How to reach me: **shubhamsinha07084@gmail.com**
+<!-- - 📫 How to reach me: **shubhamsinha07084@gmail.com** -- -->
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: **I workout everyday**
 
