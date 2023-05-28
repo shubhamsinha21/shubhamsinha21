@@ -22,6 +22,13 @@ I am a passionate Software Engineer who always believes in learning new skills. 
       Feb, 2023 - Mar, 2023  
       
       Tech Stack - React Js, Next Js, Chakra UI
+      
+ **3. Beta Testing - InternNexus * (Remote) 💻
+
+      May, 2023 - Present
+      
+
+      
 
 
 
