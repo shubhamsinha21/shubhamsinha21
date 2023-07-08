@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **React Native App Development Projects**
+- 🔭 I’m currently working on **IMPROVING MY SKILLS**
 - 🌱 I’m currently learning **React Native**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startup Project**
 - 🤔 I’m looking for help with **Learning BlockChain Development**
