@@ -11,10 +11,12 @@
 ## About me
 I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
 
-**1. Trainee - BasketHunt Private Limited** (Remote) 
+**1. Trainee - BasketHunt Private Limited** (Remote)  
+
       July, 2023 - Present
 
 **2. Frontend Developer - CodeSoft (MSME)** (Remote) 
+
       July, 2023 - Present
 
 **3. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
