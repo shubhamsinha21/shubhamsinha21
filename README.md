@@ -25,7 +25,7 @@ I am a passionate Software Engineer who always believes in learning new skills. 
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- **4. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remotely) 📈
+ **4. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
 
       May, 2022 - Aug, 2022
 
