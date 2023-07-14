@@ -11,21 +11,18 @@
 ## About me
 I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
 
-**1. Trainee - BasketHunt Private Limited** (Remote)  
+
+**1. Frontend Developer - CodeSoft (MSME)** (Remote) 
 
       July, 2023 - Present
 
-**2. Frontend Developer - CodeSoft (MSME)** (Remote) 
-
-      July, 2023 - Present
-
-**3. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
+**2. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
 
       Feb, 2023 - Mar, 2023  
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- **4. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
+ **3. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
 
       May, 2022 - Aug, 2022
 
