@@ -12,7 +12,7 @@
 I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
 
 
-**1. Frontend Developer - CodeSoft (MSME)** (Remote) 
+**1. Frontend Developer - CodeSoft (MSME)** (Remote)  
 
       July, 2023 - Present
 
