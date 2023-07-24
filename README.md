@@ -24,7 +24,7 @@ I am a passionate Software Engineer who always believes in learning new skills. 
       
  **3. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
 
-      May, 2022 - Aug, 2022
+      May, 2022 - Aug, 2022 
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
       
