@@ -27,7 +27,6 @@ I am a passionate Software Engineer who always believes in learning new skills. 
       May, 2022 - Aug, 2022 
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
-      
 
       
 
