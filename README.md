@@ -15,7 +15,6 @@ I am a passionate Software Engineer who always believes in learning new skills. 
 **1. Frontend Developer - CodeSoft (MSME)** (Remote)  
 
       July, 2023 - Present
-
 **2. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
 
       Feb, 2023 - Mar, 2023  
