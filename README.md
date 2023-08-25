@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on **IMPROVING MY SKILLS**
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently upgrading my **Skill Set**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startup Project**
 - 🤔 I’m looking for help with **Learning BlockChain Development**
 - 💬 Ask me about **Technology and Personal Development**
@@ -14,7 +14,7 @@ I am a passionate Software Engineer who always believes in learning new skills. 
 
 **1. Frontend Developer - CodeSoft (MSME)** (Remote)  
 
-      July, 2023 - Present
+      July, 2023 - August, 2023
 **2. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
 
       Feb, 2023 - Mar, 2023  
