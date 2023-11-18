@@ -4,7 +4,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🤔 About me
 
-- 🔭 I’m currently working on **Remote Project Contributor 🤯 at @ [Codeate](https://www.codeate.in/) **
+- 🔭 I’m currently working on **Remote Project Contributor 🤯 at @ [Codeate](https://www.codeate.in/)**
   
 - 🌱 I’m currently upgrading my Skills✈️ **in Web3 and AI🤖**
   
@@ -22,19 +22,19 @@ transform lives. I’m committed to bridging the gap between technology and huma
 
       Tech Stack - React Native, React Js, Javscript, Node Js
 
- 2. Full Stack Developer - [Octanet](https://octanet.in/) (Remote)
+ 2. Full Stack Developer @ [Octanet](https://octanet.in/) (Remote)
 
        Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
        
- 3. Frontend Developer - [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
+ 3. Frontend Developer @ [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
 
       Tech Stack - React Js, CSS. Material UI, Javascript
       
- 4. Software Engineer Intern - Zauvijek Tech Private Limited (Hybrid) 💻
+ 4. Software Engineer Intern @ Zauvijek Tech Private Limited (Hybrid) 💻
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- 5. Data Science and Machine Learning Intern - Fintech and BlochChain Association, Cambridge, Massachusetts, United States (Remote) 📈
+ 5. Data Science and Machine Learning Intern @ Fintech and BlochChain Association, Cambridge, Massachusetts, United States (Remote) 📈
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
 
