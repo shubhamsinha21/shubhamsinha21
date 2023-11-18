@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **IMPROVING MY SKILLS**
-- 🌱 I’m currently upgrading my **Skill Set**
+- 🔭 I’m currently working on **Project Contributor 🤯 at Codeate**
+- 🌱 I’m currently upgrading my Skills **in Web3 and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startup Project**
 - 🤔 I’m looking for help with **Learning BlockChain Development**
 - 💬 Ask me about **Technology and Personal Development**
@@ -9,19 +9,33 @@
 - ⚡ Fun fact: **I workout everyday**
 <!-- - 📫 How to reach me: **shubhamsinha07084@gmail.com** -- -->
 ## About me
-I am a passionate Software Engineer who always believes in learning new skills. **Open for Remote Jobs**
+From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration. With an insatiable curiosity, I embarked on a journey✈️ to learn and enhance my skills, transforming every moment⌛ into an opportunity for growth📈. When work takes a pause, I find solace in the melodies of my guitar🎸, letting my voice🎤 blend with the strings, creating a symphony of passion and creativity. **Open for Remote Jobs**
 
+**1. Project Contributor - Codeate** (Remote)
 
-**1. Frontend Developer - CodeSoft (MSME)** (Remote)  
+      November, 2023 - Present
+
+      Tech Stack - React Native, React Js, Javscript, Node Js
+
+**2. Full Stack Developer - Octanet Software Services** (Remote)
+
+       August, 2023 - October, 2023
+
+       Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
+       
+**3. Frontend Developer - CodeSoft (MSME)** (Remote)  
 
       July, 2023 - August, 2023
-**2. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
+
+      Tech Stack - React Js, CSS. Material UI, Javascript
+      
+**4. Software Engineer Intern - Zauvijek Tech Private Limited** (Hybrid) 💻
 
       Feb, 2023 - Mar, 2023  
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- **3. Data Analyst - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
+ **5. Data Science and Machine Learning Intern - Fintech and BlochChain Association, Cambridge, Massachusetts, United States** (Remote) 📈
 
       May, 2022 - Aug, 2022 
 
