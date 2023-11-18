@@ -17,33 +17,24 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🚀 Skills & Experience
 
- 1. Project Contributor - [Codeate](https://www.codeate.in/) (Remote)
-
-      November, 2023 - Present
+ 1. Project Contributor @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning solutions that
+transform lives. I’m committed to bridging the gap between technology and human potential.
 
       Tech Stack - React Native, React Js, Javscript, Node Js
 
  2. Full Stack Developer - [Octanet](https://octanet.in/) (Remote)
 
-       August, 2023 - October, 2023
-
        Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
        
  3. Frontend Developer - [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
 
-      July, 2023 - August, 2023
-
       Tech Stack - React Js, CSS. Material UI, Javascript
       
  4. Software Engineer Intern - Zauvijek Tech Private Limited (Hybrid) 💻
-
-      Feb, 2023 - Mar, 2023  
       
       Tech Stack - React Js, Next Js, Chakra UI
       
  5. Data Science and Machine Learning Intern - Fintech and BlochChain Association, Cambridge, Massachusetts, United States (Remote) 📈
-
-      May, 2022 - Aug, 2022 
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
 
