@@ -1,29 +1,31 @@
-### Hi there 👋
+## Hi there 👋
 
-- 🔭 I’m currently working on **Project Contributor 🤯 at Codeate**
+From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration. With an insatiable curiosity, I embarked on a journey✈️ to learn and enhance my skills, transforming every moment⌛ into an opportunity for growth📈. When work takes a pause, I find solace in the melodies of my guitar🎸, letting my voice🎤 blend with the strings, creating a symphony of passion and creativity.
+
+### About me
+
+- 🔭 I’m currently working on **Project Contributor 🤯 at @ [Codeate] **
 - 🌱 I’m currently upgrading my Skills **in Web3 and AI**
 - 👯 I’m looking to collaborate on **Open Source Projects & Startup Project**
 - 🤔 I’m looking for help with **Learning BlockChain Development**
 - 💬 Ask me about **Technology and Personal Development**
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: **I workout everyday**
 <!-- - 📫 How to reach me: **shubhamsinha07084@gmail.com** -- -->
-## About me
-From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration. With an insatiable curiosity, I embarked on a journey✈️ to learn and enhance my skills, transforming every moment⌛ into an opportunity for growth📈. When work takes a pause, I find solace in the melodies of my guitar🎸, letting my voice🎤 blend with the strings, creating a symphony of passion and creativity. **Open for Remote Jobs**
 
-**1. Project Contributor - Codeate** (Remote)
+### Experience
+
+**1. Project Contributor - [Codeate](https://www.codeate.in/) ** (Remote)
 
       November, 2023 - Present
 
       Tech Stack - React Native, React Js, Javscript, Node Js
 
-**2. Full Stack Developer - Octanet Software Services** (Remote)
+**2. Full Stack Developer - [Octanet](https://octanet.in/) ** (Remote)
 
        August, 2023 - October, 2023
 
        Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
        
-**3. Frontend Developer - CodeSoft (MSME)** (Remote)  
+**3. Frontend Developer - [CodeSoft](https://www.linkedin.com/company/codesoft/) ** (Remote)  
 
       July, 2023 - August, 2023
 
