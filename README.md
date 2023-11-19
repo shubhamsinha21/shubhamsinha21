@@ -30,11 +30,11 @@ transform lives. I’m committed to bridging the gap between technology and huma
 
       Tech Stack - React Js, CSS. Material UI, Javascript
       
- 4. Software Engineer Intern @ Zauvijek Tech Private Limited (Hybrid) 💻
+ 4. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- 5. Data Science and Machine Learning Intern @ Fintech and BlochChain Association, Cambridge, Massachusetts, United States (Remote) 📈
+ 5. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
 
@@ -49,8 +49,10 @@ transform lives. I’m committed to bridging the gap between technology and huma
 - 🏆 Metaschool | Selected in the 1st Cohort of [Metaschool](https://metaschool.so/) Blockchain Development Programme🤠 among 1000’s applicants
   
 ### Contact Me
-Feel free to contact me 
-[LinkedIN](https://www.linkedin.com/in/shubham-sinha-39b9b2209/) [Twitter](https://twitter.com/Shubham04244881)
+Feel free to contact me 💁‍♂️
+
+Lets connect on - [LinkedIN](https://www.linkedin.com/in/shubham-sinha-39b9b2209/)  
+Lets connect on - [Twitter](https://twitter.com/Shubham04244881)
 
 
 ## 🌐 Socials:
