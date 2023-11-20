@@ -47,15 +47,12 @@ transform lives. I’m committed to bridging the gap between technology and huma
 - 🏆 TCS | TCS🥃 NQT COGNITIVE Score -1268/1800
 
 - 🏆 Metaschool | Selected in the 1st Cohort of [Metaschool](https://metaschool.so/) Blockchain Development Programme🤠 among 1000’s applicants
-  
-### Contact Me
-Feel free to contact me 💁‍♂️
-
-Lets connect on - [LinkedIN](https://www.linkedin.com/in/shubham-sinha-39b9b2209/)  
-Lets connect on - [Twitter](https://twitter.com/Shubham04244881)
 
 
 ## 🌐 Socials:
+
+Feel free to contact me - 🙂
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-sinha-39b9b2209/) 
 
 # 💻 Tech Stack:
