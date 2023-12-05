@@ -47,7 +47,7 @@ transform lives. I’m committed to bridging the gap between technology and huma
 - 🏆 Metaschool | Selected in the 1st Cohort of [Metaschool](https://metaschool.so/) Blockchain Development Programme🤠 among 1000’s applicants
 
 
-## 🌐 Socials:
+## 🌐 Socials: 
 
 Feel free to contact me - 🙂
 
