@@ -45,6 +45,7 @@ transform lives. I’m committed to bridging the gap between technology and huma
 - 🏆 Postman | Postman📭 API Fundamental Student Expert
 
 - 🏆 TCS | TCS🥃 NQT COGNITIVE Score -1268/1800
+-
 
 - 🏆 Metaschool | Selected in the 1st Cohort of [Metaschool](https://metaschool.so/) Blockchain Development Programme🤠 among 1000’s applicants
 
