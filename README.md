@@ -22,7 +22,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
       Tech Stack - React Native, React Js, Javscript, Node Js
     
- 2.  Advocate @ [CentralDAO]([https://octanet.in/](https://www.linkedin.com/company/central-dao/) (Remote)
+ 2.  Advocate @ [CentralDAO](https://www.linkedin.com/company/central-dao/) (Remote)
 
        Tech Stack - Community Management, Community Building, Team Coordination
 
