@@ -6,7 +6,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🤔 About me
 
-- 🔭 I’m currently working as React Native Developer (Frontend) 🤯 at @ [Codeate](https://www.codeate.in/) , Mentor at Winter Of Blockchain and Advocate at Central DAO. 
+- 🔭 I’m currently working as React Native Developer (Frontend) 🤯 at @ [Codeate](https://www.codeate.in/) , Mentor at Winter Of Blockchain and Advocate at Central DAO and Intern at Summer of Bitcoin. 
 
 - 🔭 I’m a part of 1st Road2Web3 Cohort 🤯 at @ [Metaschool](http://metaschool.so) 
   
