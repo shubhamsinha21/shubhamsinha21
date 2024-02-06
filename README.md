@@ -17,24 +17,28 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🚀 Skills & Experience
 
- 1. Project Contributor @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning solutions that
-transform lives. I’m committed to bridging the gap between technology and human potential.
+ 1. React Native Developer (Frontend) @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning     
+    solutions that transform lives. I’m committed to bridging the gap between technology and human potential.
 
       Tech Stack - React Native, React Js, Javscript, Node Js
+    
+ 2.  Advocate @ [CentralDAO]([https://octanet.in/](https://www.linkedin.com/company/central-dao/) (Remote)
 
- 2. Full Stack Developer @ [Octanet](https://octanet.in/) (Remote)
+       Tech Stack - Community Management, Community Building, Team Coordination
+
+ 3. Full Stack Developer @ [Octanet](https://octanet.in/) (Remote)
 
        Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
        
- 3. Frontend Developer @ [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
+ 4. Frontend Developer @ [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
 
       Tech Stack - React Js, CSS. Material UI, Javascript
       
- 4. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
+ 5. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- 5. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
+ 6. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
 
