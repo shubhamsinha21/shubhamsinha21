@@ -3,6 +3,7 @@
 
 From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration. With an insatiable curiosity, I embarked on a journey✈️ to learn and enhance my skills, transforming every moment⌛ into an opportunity for growth📈. When work takes a pause, I find solace in the melodies of my guitar🎸, letting my voice🎤 blend with the strings, creating a symphony of passion and creativity.
 
+Wait.. 
 
 ### 🤔 About me
 
