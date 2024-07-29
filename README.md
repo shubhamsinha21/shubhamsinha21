@@ -2,46 +2,35 @@
 ## Hi there 👋
 
 
-From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration. With an insatiable curiosity, I embarked on a journey✈️ to learn and enhance my skills, transforming every moment⌛ into an opportunity for growth📈. When work takes a pause, I find solace in the melodies of my guitar🎸, letting my voice🎤 blend with the strings, creating a symphony of passion and creativity.
-
-Wait.. 
-
+From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration.
 
 ### 🤔 About me
 
-- 🔭 I’m currently working as React Native Developer (Frontend) 🤯 at @ [Codeate](https://www.codeate.in/) , Mentor at Winter Of Blockchain and Advocate at Central DAO and Intern at Summer of Bitcoin. 
-
-- 🔭 I’m a part of 1st Road2Web3 Cohort 🤯 at @ [Metaschool](http://metaschool.so) 
+- 🔭 I’m currently working as Machine Learning Intern at DAVE AI and a Software Engineer Fellow at Headstarter AI.
   
 - 🌱 I’m currently upgrading my Skills✈️ **in Web3 and AI🤖**
   
 - 💬 Ask me about **Technology and Personal Development** 
 <!-- - 📫 How to reach me: **shubhamsinha07084@gmail.com** -- -->
 
-### 🚀 Skills & Experience
+### 🚀 Skills & Experience 
 
- 1. React Native Developer (Frontend) @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning     
+ 1.Machine Learning Intern at Dave AI and Software Engineer Fellow at Headstarter AI.
+ 
+ 2. React Native Developer (Frontend) @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning     
     solutions that transform lives. I’m committed to bridging the gap between technology and human potential.
 
       Tech Stack - React Native, React Js, Javscript, Node Js
     
- 2.  Advocate @ [CentralDAO](https://www.linkedin.com/company/central-dao/) (Remote)
+ 3.  Advocate @ [CentralDAO](https://www.linkedin.com/company/central-dao/) (Remote)
 
        Tech Stack - Community Management, Community Building, Team Coordination
-
- 3. Full Stack Developer @ [Octanet](https://octanet.in/) (Remote)
-
-       Tech Stack - React Js, CSS, Node Js, Mongo DB, Express Js, Next Js
-       
- 4. Frontend Developer @ [CodeSoft](https://www.linkedin.com/company/codesoft/) (Remote)  
-
-      Tech Stack - React Js, CSS. Material UI, Javascript
       
- 5. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
+ 4. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
       
       Tech Stack - React Js, Next Js, Chakra UI
       
- 6. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
+ 5. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
 
       Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
 
@@ -52,10 +41,6 @@ Wait..
 - 🏆 Postman | Postman📭 API Fundamental Student Expert
 
 - 🏆 TCS | TCS🥃 NQT COGNITIVE Score -1268/1800
--
-
-- 🏆 Metaschool | Selected in the 1st Cohort of [Metaschool](https://metaschool.so/) Blockchain Development Programme🤠 among 1000’s applicants
-
 
 ## 🌐 Socials: 
 
