@@ -21,12 +21,8 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
     solutions that transform lives. I’m committed to bridging the gap between technology and human potential.
 
       Tech Stack - React Native, React Js, Javscript, Node Js
-    
- 3.  Advocate @ [CentralDAO](https://www.linkedin.com/company/central-dao/) (Remote)
-
-       Tech Stack - Community Management, Community Building, Team Coordination
       
- 4. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
+ 3. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
       
       Tech Stack - React Js, Next Js, Chakra UI
       
