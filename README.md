@@ -6,7 +6,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🤔 About me
 
-- 🔭 I’m currently working as Machine Learning Intern at DAVE AI and a Software Engineer Fellow at Headstarter AI.
+- 🔭 I’m currently working as Machine Learning Intern (part time internship) at DAVE AI and a Software Engineer Fellow at Headstarter AI.
   
 - 🌱 I’m currently upgrading my Skills✈️ **in Web3 and AI🤖**
   
@@ -15,7 +15,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🚀 Skills & Experience 
 
- 1.Machine Learning Intern at Dave AI and Software Engineer Fellow at Headstarter AI.
+ 1. Machine Learning Intern at Dave AI and Software Engineer Fellow at Headstarter AI.
  
  2. React Native Developer (Frontend) @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning     
     solutions that transform lives. I’m committed to bridging the gap between technology and human potential.
