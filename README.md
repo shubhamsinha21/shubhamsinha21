@@ -1,7 +1,6 @@
 
 ## Hi there 👋
 
-
 From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration.
 
 ### 🤔 About me
