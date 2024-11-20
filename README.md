@@ -5,7 +5,7 @@ From the world of coding👨‍💻, I ventured into a realm of endless possibil
 
 ### 🤔 About me
 
-- 🔭 I’m currently working as Machine Learning Intern (part time internship) at DAVE AI and a Software Engineer Fellow at Headstarter AI.
+- 🔭 I’m currently working as Machine Learning Engineer at DAVE AI.
   
 - 🌱 I’m currently upgrading my Skills✈️ **in Web3 and AI🤖**
   
