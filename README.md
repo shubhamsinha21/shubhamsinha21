@@ -13,9 +13,9 @@
 ### 🧠 About Me  
 
 💼 Currently: **AI Solution Architect @ DaveAI**  
-🧩 2+ years of experience across AI architecture, machine learning engineering, and full-stack automation.  
+🧩 2 years of combined experience across AI architecture, machine learning engineering, and full-stack automation workflows.  
 🌱 Exploring **Agentic AI, Video Generation Pipelines, and Web3 Automations**  
-💬 Passionate about **end-to-end ML systems, API orchestration, and building real-world AI solutions**  
+💬 Passionate about **end-to-end ML solutions, API orchestration, and building practical AI systems**  
 📍 Based in India | Open to **global remote opportunities**  
 
 ---
@@ -80,45 +80,71 @@
 #### 🎬 Talking Head Video Generation Pipeline — *DaveAI*  
 > • Developed a **video generation pipeline** integrating ML models, APIs, and automation tools.  
 > • Designed orchestration using **n8n** and **Postman API triggers**.  
-> • Improved lip-sync and motion precision through fine-tuning and benchmarking.  
+> • Improved lip-sync and motion precision via model fine-tuning and benchmarking.
 
 #### 🤖 Avatar Synthesis Pipeline — *DaveAI*  
-> • Built **avatar synthesis workflows** integrating lip-motion and face-alignment models.  
-> • Benchmarked performance using **D-ID**, **Retalk**, and custom models.  
+> • Built **avatar video synthesis workflows** integrating image alignment models.  
+> • Benchmarked performance with **D-ID** and **Retalk** tools.  
 
 #### 📱 Mobile Learning Platform — *Codeate (React Native Developer)*  
-> • Designed and developed **frontend architecture** for a scalable e-learning app.  
-> • Implemented reusable UI components and cross-platform responsiveness.  
+> • Designed and developed **frontend architecture** for a modern e-learning app.  
+> • Implemented scalable components and responsive UI for seamless learning experience.  
 
-#### 🌐 Company Website — *Zauvijek Tech Pvt. Ltd.*  
-> • Built a **Next.js business website**, improving SEO & UX.  
+#### 🌐 Official Website & Digital Portfolio — *Zauvijek Tech Pvt. Ltd.*  
+> • Built company’s **Next.js-based business website**.  
+> • Enhanced SEO and UX flow for better user engagement.  
 
-#### 📊 Fintech Data Insights — *Fintech & Blockchain Association (FAB)*  
-> • Cleaned, visualized, and analyzed financial data using **Python, Pandas, Matplotlib**.  
+#### 📊 Data-Driven Insights — *Fintech & Blockchain Association (FAB)*  
+> • Conducted **data preprocessing, analysis, and visualization** for fintech datasets.  
+> • Supported data-backed decision systems and dashboards.  
 
 ---
 
 ### 💼 Career Journey  
 
-🚀 **AI Solution Architect / ML Engineer — DaveAI**  
-*Jul 2024 – Present*  
-> - Leading **video generation & automation pipelines** using AI and APIs.  
-> - Building scalable backend & orchestration workflows with AWS and n8n.  
+#### 🚀 AI / ML Solution Architect — *DaveAI*  
+**Feb 2025 – Present | Bangalore, India (Remote)**  
+> • Designing **conversational AI flows on Gryd** for large-scale WhatsApp interactions across enterprise clients.  
+> • Integrating and maintaining **Airtel WhatsApp APIs** for message handling and automated campaigns.  
+> • Developing **dealership onboarding logic** and multilingual campaign flows for pre- and post-sales journeys.  
+> • Collaborating with AI/product teams to align **LLM capabilities with automotive business needs**.  
+> • Debugging API payloads, improving trigger reliability, and maintaining **integration documentation**.  
 
-💡 **React Native Developer — Codeate**  
-*Nov 2023 – Apr 2024*  
-> - Developed **mobile components** for an e-learning platform using React Native.  
+---
 
-🌐 **Software Engineer Intern — Zauvijek Tech Pvt. Ltd.**  
-*Feb 2023 – Apr 2023*  
-> - Created and deployed the company website with **React & Next.js**.  
+#### 🤖 Machine Learning Engineer — *DaveAI*  
+**Nov 2024 – Feb 2025 | Bangalore, India (Remote)**  
+> • Built **Gryd pipelines** for AI-driven video generation (talking-head synthesis, lip-sync, and masking).  
+> • Developed **APIs for real-time video sync** and internal tool integration.  
+> • Created clear documentation for **setup, parameters, and pipeline integration**.  
 
-📊 **Data Science Intern — Fintech & Blockchain Association (FAB)**  
-*May 2022 – Aug 2022*  
-> - Performed **data cleaning, analysis, and visualization** for fintech projects.  
+---
+
+#### 🧩 Machine Learning Intern — *DaveAI*  
+**Jul 2024 – Nov 2024 | Bangalore, India (Remote)**  
+> • Supported **avatar generation workflows** through image processing and video overlay scripting.  
+> • Improved **lip-sync accuracy** via model fine-tuning and benchmarking (D-ID vs Retalk).  
+> • Wrote **evaluation scripts in Colab**, generated embeddings, and conducted MOS-based assessments.  
+> • Automated **video generation tasks** with Gryd worker scripts for production pipelines.  
+
+---
+
+#### 💡 React Native Developer — *Codeate*  
+**Nov 2023 – Mar 2024 | Hyderabad, India (Remote)**  
+> • Built **mobile app UIs** using React Native and Tailwind CSS.  
+> • Contributed to the **complete app lifecycle** — design, build, and deploy.  
+
+---
+
+#### 🌐 Software Engineer Intern — *Zauvijek Tech Pvt. Ltd.*  
+**Feb 2023 – Jun 2023 | Patna, India (Onsite)**  
+> • Developed and optimized the **company website** using React.js and Next.js.  
+> • Delivered **scalable, responsive front-end components** following best practices.  
+
+---
 
 🏁 **The Journey Continues...**  
-> Blending **AI + Automation + Engineering**, I’m building systems that think, learn, and scale.  
+> From **automation to AI-driven video generation**, my focus is on architecting intelligent, production-ready systems that scale seamlessly.
 
 ---
 
@@ -134,8 +160,8 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSinha27&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSinha27&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -143,9 +169,9 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shubhamsinha27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:shubhamsinha.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/ShubhamSinha27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
