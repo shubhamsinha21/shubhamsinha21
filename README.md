@@ -75,31 +75,6 @@
 
 ---
 
-### 🧩 Featured Projects  
-
-#### 🎬 Talking Head Video Generation Pipeline — *DaveAI*  
-> • Developed a **video generation pipeline** integrating ML models, APIs, and automation tools.  
-> • Designed orchestration using **n8n** and **Postman API triggers**.  
-> • Improved lip-sync and motion precision via model fine-tuning and benchmarking.
-
-#### 🤖 Avatar Synthesis Pipeline — *DaveAI*  
-> • Built **avatar video synthesis workflows** integrating image alignment models.  
-> • Benchmarked performance with **D-ID** and **Retalk** tools.  
-
-#### 📱 Mobile Learning Platform — *Codeate (React Native Developer)*  
-> • Designed and developed **frontend architecture** for a modern e-learning app.  
-> • Implemented scalable components and responsive UI for seamless learning experience.  
-
-#### 🌐 Official Website & Digital Portfolio — *Zauvijek Tech Pvt. Ltd.*  
-> • Built company’s **Next.js-based business website**.  
-> • Enhanced SEO and UX flow for better user engagement.  
-
-#### 📊 Data-Driven Insights — *Fintech & Blockchain Association (FAB)*  
-> • Conducted **data preprocessing, analysis, and visualization** for fintech datasets.  
-> • Supported data-backed decision systems and dashboards.  
-
----
-
 ### 💼 Career Journey  
 
 #### 🚀 AI / ML Solution Architect — *DaveAI*  
@@ -154,25 +129,6 @@
 🏅 **Postman** – API Fundamentals Student Expert  
 🏅 **TCS NQT Cognitive** – 1268 / 1800  
 🏅 **Headstarter AI Fellow** – Built AI-powered project prototypes  
-
----
-
-### 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="165"/>
-</p>
-
----
-
-### 🌐 Connect With Me  
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
 
 ---
 
