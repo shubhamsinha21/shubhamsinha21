@@ -13,9 +13,9 @@
 ### 🧠 About Me  
 
 💼 Currently: **AI Solution Architect @ DaveAI**  
-🧩 2 years of combined experience across AI architecture, machine learning engineering, and full-stack automation workflows.  
+🧩 2+ years of experience across AI architecture, machine learning engineering, and full-stack automation.  
 🌱 Exploring **Agentic AI, Video Generation Pipelines, and Web3 Automations**  
-💬 Passionate about **end-to-end ML solutions, API orchestration, and building practical AI systems**  
+💬 Passionate about **end-to-end ML systems, API orchestration, and building real-world AI solutions**  
 📍 Based in India | Open to **global remote opportunities**  
 
 ---
@@ -80,23 +80,21 @@
 #### 🎬 Talking Head Video Generation Pipeline — *DaveAI*  
 > • Developed a **video generation pipeline** integrating ML models, APIs, and automation tools.  
 > • Designed orchestration using **n8n** and **Postman API triggers**.  
-> • Improved lip-sync and motion precision via model fine-tuning and benchmarking.
+> • Improved lip-sync and motion precision through fine-tuning and benchmarking.  
 
 #### 🤖 Avatar Synthesis Pipeline — *DaveAI*  
-> • Built **avatar video synthesis workflows** integrating image alignment models.  
-> • Benchmarked performance with **D-ID** and **Retalk** tools.  
+> • Built **avatar synthesis workflows** integrating lip-motion and face-alignment models.  
+> • Benchmarked performance using **D-ID**, **Retalk**, and custom models.  
 
 #### 📱 Mobile Learning Platform — *Codeate (React Native Developer)*  
-> • Designed and developed **frontend architecture** for a modern e-learning app.  
-> • Implemented scalable components and responsive UI for seamless learning experience.  
+> • Designed and developed **frontend architecture** for a scalable e-learning app.  
+> • Implemented reusable UI components and cross-platform responsiveness.  
 
-#### 🌐 Official Website & Digital Portfolio — *Zauvijek Tech Pvt. Ltd.*  
-> • Built company’s **Next.js-based business website**.  
-> • Enhanced SEO and UX flow for better user engagement.  
+#### 🌐 Company Website — *Zauvijek Tech Pvt. Ltd.*  
+> • Built a **Next.js business website**, improving SEO & UX.  
 
-#### 📊 Data-Driven Insights — *Fintech & Blockchain Association (FAB)*  
-> • Conducted **data preprocessing, analysis, and visualization** for fintech datasets.  
-> • Supported data-backed decision systems and dashboards.  
+#### 📊 Fintech Data Insights — *Fintech & Blockchain Association (FAB)*  
+> • Cleaned, visualized, and analyzed financial data using **Python, Pandas, Matplotlib**.  
 
 ---
 
@@ -105,33 +103,22 @@
 🚀 **AI Solution Architect / ML Engineer — DaveAI**  
 *Jul 2024 – Present*  
 > - Leading **video generation & automation pipelines** using AI and APIs.  
-> - Building scalable backend and orchestration workflows with AWS & n8n.  
-
----
+> - Building scalable backend & orchestration workflows with AWS and n8n.  
 
 💡 **React Native Developer — Codeate**  
 *Nov 2023 – Apr 2024*  
-> - Built **mobile UI components** for an e-learning app using React Native.  
-> - Ensured responsive, performant, and modular design.  
-
----
+> - Developed **mobile components** for an e-learning platform using React Native.  
 
 🌐 **Software Engineer Intern — Zauvijek Tech Pvt. Ltd.**  
 *Feb 2023 – Apr 2023*  
-> - Developed and deployed company website using **React & Next.js**.  
-> - Improved SEO, accessibility, and UX with best frontend practices.  
-
----
+> - Created and deployed the company website with **React & Next.js**.  
 
 📊 **Data Science Intern — Fintech & Blockchain Association (FAB)**  
 *May 2022 – Aug 2022*  
-> - Conducted **data cleaning, analysis, and visualization** in Python.  
-> - Worked on transforming fintech datasets into actionable insights.  
-
----
+> - Performed **data cleaning, analysis, and visualization** for fintech projects.  
 
 🏁 **The Journey Continues...**  
-> Blending **AI + Automation + Engineering**, I’m focused on building next-gen systems that scale intelligently.  
+> Blending **AI + Automation + Engineering**, I’m building systems that think, learn, and scale.  
 
 ---
 
@@ -147,8 +134,8 @@
 ### 📈 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ShubhamSinha27&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShubhamSinha27&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
 ---
@@ -156,9 +143,9 @@
 ### 🌐 Connect With Me  
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-url/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:yourmail@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/YourGitHubUsername"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/shubhamsinha27/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:shubhamsinha.ai@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ShubhamSinha27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 ---
