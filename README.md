@@ -1,59 +1,74 @@
-## Hi there 👋
+# 👋 Hey there, I'm Shubham Sinha  
 
-From the world of coding👨‍💻, I ventured into a realm of endless possibilities🤯, where technical fields like Web Development and Machine Learning🤖 ignited my passion for exploration.
-
-### 🤔 About me
-
-- 🔭 I’m currently working as Machine Learning Engineer at DAVE AI.
-  
-- 🌱 I’m currently upgrading my Skills✈️ **in Web3 and AI🤖**
-  
-- 💬 Ask me about **Technology and Personal Development** 
-<!-- - 📫 How to reach me: **shubhamsinha07084@gmail.com** -- -->
-
-### 🚀 Skills & Experience 
-
- 1. Machine Learning Intern at Dave AI and Software Engineer Fellow at Headstarter AI.
- 
- 2. React Native Developer (Frontend) @ [Codeate](https://www.codeate.in/) (Remote) - As a project contributor, I play a pivotal role in shaping the digital learning landscape, crafting innovative e-learning     
-    solutions that transform lives. I’m committed to bridging the gap between technology and human potential.
-
-      Tech Stack - React Native, React Js, Javscript, Node Js
-      
- 3. Software Engineer Intern @ [Zauvijek Tech Private Limited](https://www.zauvijek) (Hybrid) 💻
-      
-      Tech Stack - React Js, Next Js, Chakra UI
-      
- 5. Data Science and Machine Learning Intern @ [Fintech and BlochChain Association](https://www.estfab.com/), Cambridge, Massachusetts, United States (Remote) 📈
-
-      Tech Stack - Python, Numpy, Pandas, Matplotlib, Machine Learning, Scikit Learn, Business Logic
-
-### 🏆Achievements
-
-- 🏆 JP Morgan Chase and Co. | [Software Engineer Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_wsLeBkrvWCFJFbxfR_1682162574154_completion_certificate.pdf) 👦
-  
-- 🏆 Postman | Postman📭 API Fundamental Student Expert
-
-- 🏆 TCS | TCS🥃 NQT COGNITIVE Score -1268/1800
-
-## 🌐 Socials: 
-
-Feel free to contact me - 🙂
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shubham-sinha-39b9b2209/) 
-
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=for-the-badge&logo=android&logoColor=%a4c639) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=shubhamsinha21&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=shubhamsinha21&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamsinha21&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=shubhamsinha21&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+🚀 **AI Solution Architect | Machine Learning Engineer | Automation Builder**  
+Building end-to-end AI workflows — from automation pipelines to intelligent agents.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=shubhamsinha21&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧠 About Me  
+From web development to AI automation — my journey’s been about one thing:  
+**turning ideas into scalable, intelligent systems.**
+
+💼 Currently: **AI/ML Engineer at DaveAI**  
+🌱 Learning & exploring: **Agentic AI, LLM fine-tuning, and Web3 automations**  
+💬 I enjoy simplifying complex AI workflows and building products that *work in the real world*  
+🌍 Open to new opportunities — **Remote / AI startups / Automation roles**
+
+---
+
+### ⚙️ Tech Toolbox  
+
+**Languages & Frameworks:**  
+`Python` · `JavaScript` · `TypeScript` · `Node.js` · `React` · `Next.js` · `React Native`
+
+**AI & ML Stack:**  
+`PyTorch` · `TensorFlow` · `Scikit-learn` · `LangChain` · `OpenAI API` · `Transformers`
+
+**Automation & Backend:**  
+`n8n` · `Zapier` · `FastAPI` · `Flask` · `AWS` · `Docker` · `Postman` · `Webhooks`
+
+**Data & Tools:**  
+`NumPy` · `Pandas` · `Matplotlib` · `MongoDB` · `SQL` · `Firebase`  
+
+**Design & Productivity:**  
+`Figma` · `Canva` · `Notion` · `Linux`
+
+---
+
+### 💡 Featured Work
+
+🔹 **AI Video Generation Pipeline**  
+Automated image-to-video pipeline using OpenAI + AWS + Node.js + n8n for orchestration.
+
+🔹 **EV Insights LLM Project**  
+Fine-tuned a domain-specific model for Tata Tiago EV — from dataset prep to evaluation.
+
+🔹 **Automation Bots**  
+Built API-integrated workflows connecting CRM, analytics, and communication platforms.
+
+---
+
+### 🏆 Highlights & Certifications  
+
+🏅 **JP Morgan Chase & Co.** – Software Engineering Virtual Experience  
+🏅 **Postman** – API Fundamentals Student Expert  
+🏅 **TCS NQT Cognitive Score:** 1268/1800  
+
+---
+
+### 📊 GitHub Stats  
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=tokyonight)  
+
+---
+
+### 🌐 Connect with Me  
+💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-here)  
+💻 [Portfolio / Website](#) *(coming soon!)*  
+✉️ [Email Me](mailto:yourmail@gmail.com)
+
+---
+
+> “AI won’t replace people — but people who use AI will.”  
+> — Let’s build what’s next.
