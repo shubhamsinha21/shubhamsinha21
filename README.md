@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Shubham Sinha</h1>  
 
 <p align="center">
-  🚀 <b>AI Solution Architect | Machine Learning Engineer | Automation Developer</b>  
+  🚀 <b>AI Solution Architect | Machine Learning Engineer | Automation Developer | Full Stack Developer | React Native Developer </b>  
 </p>
 
 <p align="center">
