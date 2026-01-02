@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Shubham Sinha</h1>  
 
 <p align="center">
-  🚀 <b>AI Solution Architect | Machine Learning Engineer | Automation Developer | Full Stack Developer | React Native Developer </b>  
+  🚀 <b>Software Engineer with experience in building Full Stack Applications integrating AI and Blockchain. </b>  
 </p>
 
 <p align="center">
@@ -12,8 +12,7 @@
 
 ### 🧠 About Me  
 
-💼 Currently: **AI Solution Architect @ DaveAI**  
-🧩 2 years of combined experience across AI architecture, machine learning engineering, and full-stack automation workflows.  
+💼 Currently: **AI Solution Architect @ DaveAI**    
 🌱 Exploring **Agentic AI, Video Generation Pipelines, and Web3 Automations**  
 💬 Passionate about **end-to-end ML solutions, API orchestration, and building practical AI systems**  
 📍 Based in India | Open to **global remote opportunities**  
