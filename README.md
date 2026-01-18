@@ -84,32 +84,22 @@
 
 #### 🚀 AI / ML Solution Architect — DaveAI  
 **Feb 2025 – Present | Bangalore, India (Remote)**  
-- Designed **enterprise-scale WhatsApp conversational AI flows** for automotive clients  
-- Integrated **Airtel WhatsApp APIs** for automated campaigns and messaging  
-- Built **dealership onboarding logic & multilingual campaigns**  
-- Collaborated with AI/product teams to align **LLM capabilities with business requirements**  
-
-#### 🤖 Machine Learning Engineer — DaveAI  
-**Nov 2024 – Feb 2025 | Bangalore, India (Remote)**  
-- Built **AI video generation pipelines**: talking-head synthesis, lip-sync, masking  
-- Developed **real-time video sync APIs** and internal tool integration  
-- Created **clear documentation** for setup and pipeline parameters  
-
-#### 🧩 Machine Learning Intern — DaveAI  
-**Jul 2024 – Nov 2024 | Bangalore, India (Remote)**  
-- Supported **avatar generation workflows** and video overlay scripting  
-- Improved **lip-sync accuracy** via model fine-tuning & benchmarking  
-- Automated **video generation tasks** for production pipelines  
+- Designed and deployed enterprise-scale WhatsApp **conversational AI systems** handling pre- and post-sales workflows for automotive clients.
+- Integrated Airtel WhatsApp APIs for **message routing**, campaign triggers, and **automated customer journeys**.
+- Built **AI-driven video generation pipelines** including **talking-head synthesis**, **lip-sync**, masking, and avatar generation for internal and client-facing tools.
+- Developed backend APIs for **real-time video synchronization** and integration with dashboards and automation systems.
+- Improved **lip-sync quality** through model benchmarking (D-ID vs Retalk), fine-tuning, and **MOS-based evaluation**.
+- Collaborated with AI and product teams to align **LLM capabilities with business requirements and production constraints**.
 
 #### 💡 React Native Developer — Codeate  
 **Nov 2023 – Mar 2024 | Hyderabad, India (Remote)**  
-- Built **mobile app UIs** with React Native and Tailwind CSS  
-- Contributed to the **full app lifecycle**: design, development, deployment  
+- Developed **mobile application** UIs using React Native, Tailwind CSS, and MUI, ensuring smooth user experience and consistent design.
+- Implemented **frontend components**, state management, and API integrations for production features.
 
 #### 🌐 Software Engineer Intern — Zauvijek Tech Pvt. Ltd.  
 **Feb 2023 – Jun 2023 | Patna, India (Onsite)**  
-- Developed **scalable, responsive web interfaces** with React.js & Next.js  
-- Followed best practices for maintainability and accessibility  
+- Designed and optimized responsive **web interfaces** using React.js and Next.js, improving usability and page load performance.
+- Built **reusable frontend components following best practices** for maintainability, accessibility, and cross-browser compatibility.
 
 ---
 
