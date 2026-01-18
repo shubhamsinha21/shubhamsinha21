@@ -80,42 +80,46 @@
 
 ---
 
-### 💼 Career Journey
+### 💼 Work Experience
 
-#### 🚀 AI / ML Solution Architect — DaveAI  
-**Feb 2025 – Present | Bangalore, India (Remote)**  
-- Designed and deployed enterprise-scale WhatsApp **conversational AI systems** handling pre- and post-sales workflows for automotive clients.
-- Integrated Airtel WhatsApp APIs for **message routing**, campaign triggers, and **automated customer journeys**.
-- Built **AI-driven video generation pipelines** including **talking-head synthesis**, **lip-sync**, masking, and avatar generation for internal and client-facing tools.
-- Developed backend APIs for **real-time video synchronization** and integration with dashboards and automation systems.
-- Improved **lip-sync quality** through model benchmarking (D-ID vs Retalk), fine-tuning, and **MOS-based evaluation**.
-- Collaborated with AI and product teams to align **LLM capabilities with business requirements and production constraints**.
+#### 🚀 AI/ML Solution Architect — DaveAI  
+**July 2024 – Present | Bangalore, India (Remote)**  
+- Designed and deployed **enterprise-scale WhatsApp conversational AI systems** handling pre- and post-sales workflows for automotive clients.  
+- Integrated **Airtel WhatsApp APIs** for message routing, campaign triggers, and automated customer journeys.  
+- Built **AI-driven video generation pipelines** including talking-head synthesis, lip-sync, masking, and avatar generation for internal and client-facing tools.  
+- Developed **backend APIs for real-time video synchronization** and integration with dashboards and automation systems.  
+- Improved **lip-sync quality** through model benchmarking (D-ID vs Retalk), fine-tuning, and MOS-based evaluation.  
+- Collaborated with AI and product teams to align **LLM capabilities with business requirements and production constraints**.  
 
-#### 💡 React Native Developer — Codeate  
-**Nov 2023 – Mar 2024 | Hyderabad, India (Remote)**  
-- Developed **mobile application** UIs using React Native, Tailwind CSS, and MUI, ensuring smooth user experience and consistent design.
-- Implemented **frontend components**, state management, and API integrations for production features.
+#### 💡 Mobile Application Developer — Codeate  
+**Nov 2023 – Apr 2024 | Hyderabad, India (Remote)**  
+- Developed **mobile application UIs** using React Native, Tailwind CSS, and MUI, ensuring smooth user experience and consistent design.  
+- Implemented **frontend components, state management, and API integrations** for production features.  
+- Participated in the **full app lifecycle** — from UI design to testing and deployment.  
 
-#### 🌐 Software Engineer Intern — Zauvijek Tech Pvt. Ltd.  
-**Feb 2023 – Jun 2023 | Patna, India (Onsite)**  
-- Designed and optimized responsive **web interfaces** using React.js and Next.js, improving usability and page load performance.
-- Built **reusable frontend components following best practices** for maintainability, accessibility, and cross-browser compatibility.
+#### 🌐 Software Engineer — Zauvijek Tech Pvt. Ltd.  
+**Feb 2023 – Apr 2023 | Patna, India (Onsite)**  
+- Designed and optimized **responsive web interfaces** using React.js and Next.js, improving usability and page load performance.  
+- Built **reusable frontend components** following best practices for maintainability, accessibility, and cross-browser compatibility.  
 
 ---
 
 ### 💡 Projects
 
-**Spur Support** — AI Customer Support Platform | [Link]  
-- Conversational AI for e-commerce support, session persistence, suggested prompts, responsive UI  
-- Tech: React, Node.js, PostgreSQL, Redis, OpenAI GPT-4o-mini  
+**Spur Support** — AI Customer Support Platform | [[Link](https://github.com/shubhamsinha21/spur)]  
+- Built an **AI-powered customer support platform** enabling conversational chat for e-commerce use cases.  
+- Implemented **LLM-driven conversations, session persistence, typing indicators, suggested prompts**, and a modern responsive UI.  
+- Tech: React, Node.js, PostgreSQL, Redis, OpenAI APIs  
 
-**CodeSpecto** — AI Code Assistant | [Link]  
-- Analyze, debug, optimize, and review code with actionable insights  
+**CodeSpecto** — AI Code Assistant | [[Link](https://github.com/shubhamsinha21/CodeSpecto)]  
+- Developed an **AI-driven code assistant** to analyze, debug, optimize, review, and identify security issues in codebases.  
+- Delivered **actionable insights and recommendations** through an interactive and stateful interface.  
 - Tech: React, Node.js, Python, HuggingFace Transformers  
 
-**Reddit Mastermind** — Automated Reddit Content Planner | [Link]  
-- Persona-driven content generation & engagement simulation  
-- Tech: Python, Streamlit, Reddit API  
+**Reddit Mastermind** — Automated Reddit Content Planner | [[Link](https://github.com/shubhamsinha21/the-reddit-mastermind)]  
+- Built an **automated Reddit content calendar generator** to plan posts, generate persona-driven comments, and simulate human-like Reddit interactions.  
+- Helped businesses **boost engagement, upvotes, and inbound leads**, reducing manual effort.  
+- Tech: Python, Streamlit  
 
 ---
 
@@ -125,6 +129,12 @@
 - Postman – API Fundamentals Student Expert  
 - TCS NQT Cognitive – 1268 / 1800  
 - Headstarter AI Fellow – Built AI-powered project prototypes  
+
+---
+
+### 📫 Contact Me
+
+- [LinkedIn](https://www.linkedin.com/in/shubham-sinha-39b9b2209/) | [Portfolio](https://showcase-the-skill.vercel.app/) 
 
 ---
 
