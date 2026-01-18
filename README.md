@@ -138,10 +138,4 @@
 
 ---
 
-### 📫 Contact Me
-
-- [LinkedIn](#) | [Portfolio](#) | gmail@gmail.com  
-
----
-
 <p align="center"><i>“AI won’t replace people — but people who use AI will.”</i></p>
