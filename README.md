@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Shubham Sinha</h1>
 
 <p align="center">
-  🚀 <b>AI Product Engineer & Full-Stack Developer integrating LLMs, Automation, and Blockchain</b>
+  🚀 <b>AI/ML Engineer & Full-Stack Developer integrating LLMs, Automation, and Blockchain</b>
 </p>
 
 <p align="center">
