@@ -136,5 +136,3 @@
 - [LinkedIn](https://www.linkedin.com/in/shubham-sinha-39b9b2209/) | [Portfolio](https://showcase-the-skill.vercel.app/) 
 
 ---
-
-<p align="center"><i>“AI won’t replace people — but people who use AI will.”</i></p>
