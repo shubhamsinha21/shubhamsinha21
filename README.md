@@ -12,6 +12,7 @@
 
 ### 🧠 About Me
 
+➡️ **Open and looking for opportunities.**
 🌱 Exploring **Agentic AI, LLMs, Video Generation Pipelines, and Web3 Automations**  
 💬 Passionate about **end-to-end AI solutions, API orchestration, and building production-grade systems**  
 📍 From Bihar, India | Open to **global remote opportunities**  
