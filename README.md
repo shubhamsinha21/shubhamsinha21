@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Shubham Sinha 👋</h1>
 
 <p align="center">
-  <b>AI Engineer building production-oriented LLM, conversational AI & backend systems.</b>
+  <b>AI Engineer building practical LLM, conversational AI & backend systems.</b>
 </p>
 
 <p align="center">
@@ -14,45 +14,42 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer focused on building **practical AI systems that connect models with real products and workflows**.
+I'm an AI Engineer focused on building **AI systems that work beyond the prototype**.
 
-My experience includes:
+My work sits at the intersection of **LLMs, conversational AI, backend engineering and automation** — connecting models to APIs, databases, workflows and real products.
 
-* Building production **conversational AI systems** for automotive use cases
-* Designing **LLM-powered workflows, APIs and automation**
-* Working with **WhatsApp APIs, backend services and customer journeys**
-* Building **AI video generation and lip-sync pipelines**
-* Benchmarking and fine-tuning AI models for production use
-* Building full-stack applications around AI products
+I've worked on:
 
-I enjoy working at the point where **AI meets software engineering** — taking a model or idea and turning it into something that can actually be used.
+* 🤖 Production **conversational AI** systems
+* 🧠 LLM-powered applications and workflows
+* ⚙️ API and workflow automation
+* 💬 WhatsApp-based customer journeys
+* 🎥 AI video generation and lip-sync pipelines
+* 🔧 Backend services and full-stack AI products
+
+I enjoy the engineering around AI just as much as the model itself — **state, integrations, reliability, fallbacks, latency and everything required to turn an AI feature into a usable system.**
 
 📍 India
 🌍 Open to remote opportunities
 
 ---
 
-## 🧠 What I Work With
+## 🛠️ Technical Focus
 
-### AI / LLM
+**AI / LLM**
+Python · OpenAI · Hugging Face · LangChain · LlamaIndex · RAG · Prompt Engineering
 
-`Python` `LLMs` `OpenAI APIs` `Hugging Face` `LangChain` `LlamaIndex` `RAG` `Prompt Engineering`
+**Backend / Data**
+Node.js · Express.js · FastAPI · REST APIs · PostgreSQL · Redis · FAISS · Milvus
 
-### Backend & Data
+**Frontend**
+React · Next.js · React Native · TypeScript · Tailwind CSS
 
-`Node.js` `Express.js` `FastAPI` `REST APIs` `PostgreSQL` `Redis` `FAISS` `Milvus`
+**ML / Computer Vision**
+PyTorch · TensorFlow · Transformers · OpenCV · NumPy · Pandas
 
-### Frontend
-
-`React` `Next.js` `React Native` `TypeScript` `Tailwind CSS`
-
-### ML / Computer Vision
-
-`PyTorch` `TensorFlow` `Transformers` `OpenCV` `NumPy` `Pandas`
-
-### Infrastructure & Automation
-
-`Docker` `AWS` `GitHub Actions` `n8n` `Postman` `Git`
+**Infrastructure / Automation**
+Docker · AWS · GitHub Actions · n8n · Postman · Git
 
 ---
 
@@ -62,13 +59,13 @@ I enjoy working at the point where **AI meets software engineering** — taking 
 
 **Jul 2024 – Nov 2025**
 
-Worked on production AI systems for automotive clients, with a focus on conversational AI, backend integrations and AI media pipelines.
+Worked on production AI systems for enterprise automotive use cases.
 
 * Built and deployed **WhatsApp conversational AI systems** for pre-sales and post-sales customer workflows.
 * Integrated **Airtel WhatsApp APIs** for routing, campaign triggers and automated customer journeys.
 * Developed backend APIs connecting AI workflows with internal dashboards and automation systems.
-* Built AI video generation pipelines involving **talking-head synthesis, masking, avatar generation and lip-sync**.
-* Benchmarked lip-sync solutions including **D-ID and Retalk**, followed by fine-tuning and MOS-based evaluation.
+* Built AI video-generation pipelines involving **talking-head synthesis, avatar generation, masking and lip-sync**.
+* Benchmarked **D-ID and Retalk** for lip-sync quality and worked on fine-tuning and MOS-based evaluation.
 * Worked with AI and product teams to translate business requirements into production AI workflows.
 
 ### Mobile Application Developer — Codeate
@@ -77,14 +74,14 @@ Worked on production AI systems for automotive clients, with a focus on conversa
 
 * Built production mobile interfaces using **React Native** and Tailwind CSS.
 * Implemented reusable components, state management and API integrations.
-* Worked across the application lifecycle from development to testing and deployment.
+* Worked across development, testing and deployment.
 
-### Software Engineer — Zauvijek Tech
+### Software Engineer — Zauvijek Tech Pvt. Ltd.
 
 **Feb 2023 – Apr 2023**
 
 * Built responsive web applications using **React.js and Next.js**.
-* Developed reusable components and improved frontend performance and maintainability.
+* Developed reusable components with a focus on maintainability and performance.
 
 ---
 
@@ -94,35 +91,35 @@ Worked on production AI systems for automotive clients, with a focus on conversa
 
 **AI Customer Support Platform**
 
-An AI-powered customer support application designed around persistent, contextual conversations.
+An AI-powered customer support application built around persistent, contextual conversations.
+
+**Stack:** React · TypeScript · Node.js · PostgreSQL · Redis · OpenAI
 
 * LLM-powered customer conversations
-* Session persistence and user state management
-* Suggested prompts and real-time typing experience
+* Session persistence and user state
+* Suggested prompts and real-time interaction
 * Backend orchestration for conversational workflows
-* Responsive customer-facing interface
+* Error handling and API integrations
 
-**Stack:** React · Node.js · PostgreSQL · Redis · OpenAI APIs
-
-<a href="https://github.com/shubhamsinha21/spur">View Repository →</a>
+→ [View Repository](https://github.com/shubhamsinha21/spur)
 
 ---
 
 ### 🧑‍💻 CodeSpecto
 
-**AI Code Assistant**
+**AI-Powered Codebase Intelligence**
 
-An AI-powered development assistant for understanding and improving codebases.
+An AI development assistant for understanding and improving codebases.
+
+**Stack:** React · Node.js · Python · Hugging Face Transformers
 
 * Code analysis and debugging
 * Optimization and code review
 * Security issue identification
-* Stateful interactive interface
-* Actionable AI-generated recommendations
+* Stateful AI interaction
+* Actionable recommendations for developers
 
-**Stack:** React · Node.js · Python · Hugging Face Transformers
-
-<a href="https://github.com/shubhamsinha21/CodeSpecto">View Repository →</a>
+→ [View Repository](https://github.com/shubhamsinha21/CodeSpecto)
 
 ---
 
@@ -132,29 +129,36 @@ An AI-powered development assistant for understanding and improving codebases.
 
 A Python-based system for planning Reddit content and generating persona-driven interactions.
 
-* Automated content planning
-* Persona-based post and comment generation
-* Content calendar generation
-* Streamlit-based interface
-
 **Stack:** Python · Streamlit
 
-<a href="https://github.com/shubhamsinha21/the-reddit-mastermind">View Repository →</a>
+* Automated content planning
+* Persona-based content generation
+* Content calendar generation
+* Automated engagement workflows
+
+→ [View Repository](https://github.com/shubhamsinha21/the-reddit-mastermind)
 
 ---
 
-## 🔬 Currently Exploring
+## 🔭 Currently Exploring
 
-* Agentic AI systems
-* LLM evaluation and reliability
-* RAG and retrieval systems
-* AI automation workflows
-* Multimodal AI
-* AI + Web3 integrations
+**Agentic AI** · **LLM Evaluation** · **RAG & Retrieval Systems** · **AI Automation** · **Multimodal AI** · **AI + Web3**
 
 ---
 
-## 🏆 Certifications & Achievements
+## 🧠 A Few Things I've Learned Building AI Systems
+
+> **A good model doesn't automatically make a good AI product.**
+
+The difficult part is often everything around the model:
+
+**state → retrieval → APIs → validation → fallbacks → observability → reliability**
+
+That's the part of AI engineering I enjoy most.
+
+---
+
+## 🏆 Achievements
 
 * **Postman API Fundamentals Student Expert**
 * **JPMorgan Chase & Co. — Software Engineering Virtual Experience**
@@ -165,10 +169,14 @@ A Python-based system for planning Reddit content and generating persona-driven 
 
 ## 🤝 Let's Connect
 
-If you're working on **AI products, LLM applications, conversational AI or automation**, I'd be happy to connect.
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/shubham-sinha-39b9b2209/">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="https://showcase-the-skill.vercel.app/">Portfolio</a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shubham-sinha-39b9b2209/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://showcase-the-skill.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
+  <a href="https://github.com/shubhamsinha21">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
