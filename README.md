@@ -158,10 +158,3 @@ Docker · AWS · GitHub Actions · n8n · Postman · Git
 * JPMorgan Chase & Co. — Software Engineering Virtual Experience
 * TCS NQT Cognitive — 1268 / 1800
 * Headstarter AI Fellow
-
----
-
-## Connect
-
-**LinkedIn:** https://www.linkedin.com/in/shubham-sinha-39b9b2209/
-**Portfolio:** https://showcase-the-skill.vercel.app/
