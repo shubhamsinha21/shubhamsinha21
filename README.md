@@ -14,7 +14,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an AI Engineer focused on building **production-oriented AI systems** rather than just experimenting with models.
+I'm an **AI Engineer focused on building practical AI systems** rather than just experimenting with models.
 
 My work sits at the intersection of **LLMs, conversational AI, backend engineering, automation, and product development**.
 
@@ -22,12 +22,12 @@ I've worked on:
 
 * 🤖 Production conversational AI and customer workflows
 * 🧠 LLM-powered applications and AI automation
-* 🔌 APIs, webhooks, backend services and third-party integrations
+* 🔌 Backend APIs, webhooks, and third-party integrations
 * 🎥 AI video generation and lip-sync pipelines
-* 📊 Model benchmarking, evaluation and fine-tuning
+* 📊 Model benchmarking, evaluation, and fine-tuning
 * 🛠️ Full-stack applications built around AI products
 
-I enjoy the engineering around the model too — **state management, APIs, retrieval, validation, fallbacks, integrations, reliability, and turning AI capabilities into usable products.**
+I enjoy the engineering around the model too — **state management, APIs, retrieval, validation, fallbacks, integrations, and reliability** — and turning AI capabilities into products that people can actually use.
 
 📍 India · 🌍 Open to remote opportunities
 
@@ -39,14 +39,15 @@ I enjoy the engineering around the model too — **state management, APIs, retri
 
 **Jul 2024 – Nov 2025**
 
-Worked on production AI systems for enterprise automotive clients.
+Worked on production AI systems for enterprise automotive use cases.
 
-* Built and deployed **WhatsApp conversational AI systems** for pre-sales and post-sales workflows.
-* Integrated **Airtel WhatsApp APIs** for message routing, campaign triggers, and automated customer journeys.
+* Built and deployed **WhatsApp conversational AI workflows** for pre-sales and post-sales customer interactions.
+* Integrated **Airtel WhatsApp APIs** for message routing, automated messaging, campaign triggers, and customer journeys.
 * Developed backend APIs connecting AI workflows with internal dashboards and automation systems.
-* Built AI video-generation pipelines involving **talking-head synthesis, avatar generation, masking, and lip-sync**.
-* Benchmarked lip-sync solutions including **D-ID and Retalk**, followed by fine-tuning and MOS-based evaluation.
-* Worked with AI and product teams to translate business requirements into production AI workflows.
+* Built AI media pipelines involving **avatar generation, talking-head synthesis, masking, and lip-sync**.
+* Benchmarked lip-sync solutions including **D-ID and Retalk**, followed by fine-tuning and **MOS-based evaluation**.
+* Integrated AI workflows with internal tools, backend services, and product systems.
+* Worked with AI and product teams to translate business requirements into practical production AI workflows.
 
 ### Mobile Application Developer — Codeate
 
@@ -54,13 +55,13 @@ Worked on production AI systems for enterprise automotive clients.
 
 * Built production mobile interfaces using **React Native** and Tailwind CSS.
 * Implemented reusable components, state management, and API integrations.
-* Worked across development, testing, and deployment.
+* Worked across development, testing, and deployment of production features.
 
 ### Software Engineer — Zauvijek Tech
 
 **Feb 2023 – Apr 2023**
 
-* Built responsive web applications using **React.js and Next.js**.
+* Built responsive web applications using **React.js** and **Next.js**.
 * Developed reusable frontend components with a focus on maintainability and performance.
 
 ---
@@ -75,11 +76,11 @@ An AI-powered customer support application built around persistent conversations
 
 **Stack:** React · TypeScript · Node.js · PostgreSQL · Redis · OpenAI APIs
 
-* LLM-powered customer conversations
-* Session persistence and user state management
-* Suggested prompts and real-time interaction states
-* Backend orchestration for conversational workflows
-* Error handling and API integrations
+* Built LLM-powered customer conversations.
+* Implemented **session persistence and user state management**.
+* Developed backend orchestration for conversational workflows.
+* Added suggested prompts and real-time interaction states.
+* Implemented API integrations and error-handling flows.
 
 <a href="https://github.com/shubhamsinha21/spur">View Repository →</a>
 
@@ -89,15 +90,15 @@ An AI-powered customer support application built around persistent conversations
 
 **AI-Powered Code Intelligence**
 
-An AI-assisted development tool for understanding and improving codebases.
+An AI-assisted development tool for understanding, reviewing, and improving codebases.
 
 **Stack:** React · Node.js · Python · Hugging Face Transformers
 
-* Code analysis and debugging
-* Code review and optimization
-* Security issue identification
-* Stateful AI interaction
-* Actionable recommendations for developers
+* Built workflows for **code analysis and debugging**.
+* Implemented code review and optimization capabilities.
+* Added security issue identification workflows.
+* Built stateful AI interactions for developer workflows.
+* Generated actionable recommendations from code analysis.
 
 <a href="https://github.com/shubhamsinha21/CodeSpecto">View Repository →</a>
 
@@ -111,10 +112,10 @@ A Python-based system for planning Reddit content and generating persona-driven 
 
 **Stack:** Python · Streamlit
 
-* Automated content planning
-* Persona-based post and comment generation
-* Content calendar generation
-* Streamlit-based interface
+* Automated content planning.
+* Generated persona-based posts and comments.
+* Created content calendars.
+* Built a Streamlit-based interface for managing workflows.
 
 <a href="https://github.com/shubhamsinha21/the-reddit-mastermind">View Repository →</a>
 
