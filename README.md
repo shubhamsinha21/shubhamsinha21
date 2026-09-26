@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/shubham-sinha-39b9b2209/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  <!-- &nbsp;·&nbsp; -->
   <!-- <a href="https://showcase-the-skill.vercel.app/">Portfolio</a> -->
 </p>
 
@@ -188,6 +188,6 @@ I'm interested in working on **AI products, LLM applications, conversational AI,
 
 <p align="left">
   <a href="https://www.linkedin.com/in/shubham-sinha-39b9b2209/">LinkedIn</a>
-  &nbsp;·&nbsp;
+  <!-- &nbsp;·&nbsp; -->
   <!-- <a href="https://showcase-the-skill.vercel.app/">Portfolio</a> -->
 </p>
